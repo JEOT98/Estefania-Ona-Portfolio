@@ -175,7 +175,7 @@ header .categorias a.activo {
 	}
 
 	.overlay #btn-cerrar-popup {
-		right: 10%;
-		top: 10%;
+		right: 5%;
+		top: -10%;
 	}
 }
